@@ -18,7 +18,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Você pode entrar em contato comigo por aqui!
  
 <div>  
   <a href = "mailto:mateusverissimo94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
