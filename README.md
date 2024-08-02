@@ -30,8 +30,6 @@ Tenho 30 anos, sou de Recife e adoro programar em java usando o spring, e para a
 
  </div>
  
- <br>
- 
   ### Você pode entrar em contato comigo por aqui!
 <div>  
   <a href = "mailto:mateusverissimo94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
